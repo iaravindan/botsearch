@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/botsearch/static/css/main.2b844076.chunk.css",
+    "main.js": "/botsearch/static/js/main.39ef54ac.chunk.js",
+    "main.js.map": "/botsearch/static/js/main.39ef54ac.chunk.js.map",
+    "runtime-main.js": "/botsearch/static/js/runtime-main.fec1836f.js",
+    "runtime-main.js.map": "/botsearch/static/js/runtime-main.fec1836f.js.map",
+    "static/css/2.31461e4f.chunk.css": "/botsearch/static/css/2.31461e4f.chunk.css",
+    "static/js/2.64efc975.chunk.js": "/botsearch/static/js/2.64efc975.chunk.js",
+    "static/js/2.64efc975.chunk.js.map": "/botsearch/static/js/2.64efc975.chunk.js.map",
+    "static/js/3.b427987b.chunk.js": "/botsearch/static/js/3.b427987b.chunk.js",
+    "static/js/3.b427987b.chunk.js.map": "/botsearch/static/js/3.b427987b.chunk.js.map",
+    "index.html": "/botsearch/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/botsearch/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.2b844076.chunk.css.map": "/botsearch/static/css/main.2b844076.chunk.css.map",
+    "static/js/2.64efc975.chunk.js.LICENSE.txt": "/botsearch/static/js/2.64efc975.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fec1836f.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.64efc975.chunk.js",
+    "static/css/main.2b844076.chunk.css",
+    "static/js/main.39ef54ac.chunk.js"
+  ]
+}
